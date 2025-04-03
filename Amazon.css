@@ -1,0 +1,1883 @@
+.parent
+{
+    background-color:#0F1111;
+    height:60px;
+    position:sticky;
+
+}
+.main
+{
+    height:2000px;
+    background-color:#f2f2f2;
+}
+.backbone
+{
+    background-image:url("https://images-eu.ssl-images-amazon.com/images/G/31/img24/Wireless/Samsung/Jan25Launch/GW_18thFeb/D195822477_IN_WLD_Samsung_S25_series_LaunchUpdate_DesktopHeroTemplate_3000x1200_2._CB549872138_.jpg");
+    background-size: cover;
+    position:relative;
+    top:0.1px;
+    left:10px;
+    margin-right: 20px;
+    height:670px;
+}
+.child
+{
+    height:39px;
+    background-color: #232F3E;
+}
+.amazon_in
+{
+    position:relative;
+    top:10px;
+    left:10px;
+    background-color: aliceblue;
+    display:inline;
+    width:129.73px;
+    height:50px;
+}
+#but
+{
+    width:129.73px;
+    height:50px;
+    position:relative;
+    top:4.5px;
+    left:10px;
+    cursor: pointer;
+    background-color:#0F1111 ;
+    color:white;
+    border-style: solid;
+    border-color:#0F1111;
+    font-weight: bolder;
+}
+#but:hover
+{
+    border-color: aliceblue;
+}
+#add
+{ 
+    width:137.84px;
+    height:49px;
+    position:absolute;
+    top:5px;
+    left:140px;
+    cursor: pointer;
+    background-color:#0F1111;
+    border-style: solid;
+    border-color:#0F1111;
+    color:white;   
+}
+#add:hover
+{
+    border-color: aliceblue;
+}
+#sp
+{
+    font-size: 12px;
+}
+#ss
+{
+    font-size: 14px;
+    font-weight: bolder;
+}
+#All
+{
+    position:absolute;
+    top:17.5px;
+    left:286px;
+    width:45px;
+    height:41px;
+    /* border-style: solid;
+    border-color: black;
+    border-width: 2px; */
+    /* border-radius:5px;
+    border-right:none; */
+    background-color:#E6E6E6;
+    cursor: pointer;  
+    border-style:none;
+    border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+}
+.input1
+{
+    position:absolute;
+    top:17.5px;
+    left:331.5px;
+    width:733.19px;
+    height:39.2px;
+    /* border-style: solid;
+    border-color: black; */
+    border-style: none;
+    border-left: none;
+}
+.search
+{
+    position:absolute;
+    top:16px;
+    left:1069px;
+    width:46px;
+    height:44px;
+    border-style:solid;
+    border-color:black;
+    border-left:none;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdFFYougm75oguFhU8sibLFj6Xg5dRNzPRQ&s");
+    background-size:cover;
+    cursor: pointer;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
+   
+}
+.country
+{
+    position:absolute;
+    top:13px;
+    left:1128px;
+    width:73.38px;
+    height:50px;
+    cursor: pointer;
+    background-color:#0F1111;
+    border-style: solid;
+    border-color:#0F1111;
+    color:white;   
+}
+.country:hover
+{
+    border-color: aliceblue;
+}
+.flag
+{
+    font-size: 26px;
+}
+.nation
+{
+    font-size: 14px;
+}
+.Account
+{
+    position:absolute;
+    top:13px;
+    left:1201.5px;
+    width:131.53px;
+    height:50px;
+    cursor: pointer;
+    background-color:#0F1111;
+    border-style: solid;
+    border-color:#0F1111;
+    color:white;   
+}
+.Account:hover
+{
+    border-color: aliceblue;
+}
+#first
+{
+   font-size: 12px;
+    text-align:left;
+    position: absolute;
+    top:10px;
+    left:5px;
+}
+#wha
+{
+    font-size: 14px;
+    text-align:left;
+    position: absolute;
+    top:24px;
+    left:5px;
+    font-weight: bolder;
+}
+.orders
+{
+    position:absolute;
+    top:13px;
+    left:1333px;
+    width:76.95px;
+    height:50px;
+    cursor: pointer;
+    background-color:#0F1111;
+    border-style: solid;
+    border-color:#0F1111;
+    color:white;   
+}
+.orders:hover
+{
+    border-color: aliceblue;
+}
+#returns
+{
+    font-size: 12px;
+    text-align:left;
+    position: absolute;
+    top:10px;
+    left:5px;
+}
+#orders
+{
+   font-size: 14px;
+    text-align:left;
+    position: absolute;
+    top:22px;
+    left:5px;  
+    font-weight: bolder; 
+}
+.cart
+{
+    position:absolute;
+    top:13px;
+    left:1410px;
+    width:84px;
+    height:50px;
+    cursor: pointer;
+    background-color:#0F1111;
+    border-style: solid;
+    border-color:#0F1111;
+    color:white;   
+    font-weight: bolder;
+}
+.cart:hover
+{
+    border-color: aliceblue;
+}
+.d1
+{
+    position:absolute;
+    top:68px;
+    left:20px;
+    width:58.41px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: medium;
+    cursor: pointer;
+}
+#d1
+{
+    font-size: 17px;
+}
+.text
+{
+    font-size: 14px;   
+}
+.d2
+{
+    position:absolute;
+    top:68px;
+    left:78px;
+    width:86.71px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d3
+{
+    position:absolute;
+    top:68px;
+    left:165px;
+    width:136.2px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d4
+{
+    position:absolute;
+    top:68px;
+    left:301px;
+    width:67.19px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d5
+{
+    position:absolute;
+    top:68px;
+    left:368px;
+    width:81.6px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d6
+{
+    position:absolute;
+    top:68px;
+    left:449px;
+    width:41.38px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d7
+{
+    position:absolute;
+    top:68px;
+    left:490px;
+    width:78.71px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.m7
+{
+    position:absolute;
+    top:68px;
+    left:568px;
+    width:80.99px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d8
+{
+    position:absolute;
+    top:68px;
+    left:649px;
+    width:81.58px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d9
+{
+    position:absolute;
+    top:68px;
+    left:730px;
+    width:126.48px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d10
+{
+    position:absolute;
+    top:68px;
+    left:856px;
+    width:107.83px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d11
+{
+    position:absolute;
+    top:68px;
+    left:964px;
+    width:240.15px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d12
+{
+    position:absolute;
+    top:68px;
+    left:1204px;
+    width:102.81px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.d13
+{
+    position:absolute;
+    top:68px;
+    left:1307px;
+    width:145.4px;
+    height:39px;
+    border-style:solid;
+    color:aliceblue;
+    border-color:#232F3E;
+    background-color: #232F3E;
+    font-size: 14px;
+    cursor: pointer;
+}
+.s1
+{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top:357px;
+    left:34.64px;
+    height:420px;
+    width:350px;
+}
+.st1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:0px;
+    left:23px;
+}
+.st2
+{
+    font-size: 13px;
+    position:absolute;
+    top:190px;
+    left:23px;
+    cursor: pointer;
+}
+.st3
+{
+    font-size: 13px;
+    position:absolute;
+    top:190px;
+    left:176px;
+    cursor: pointer;
+}
+.st4
+{
+    font-size: 13px;
+    position:absolute;
+    top:350px;
+    left:23px;
+    cursor: pointer;
+}
+.st5
+{
+    font-size: 13px;
+    position:absolute;
+    top:350px;
+    left:176px;
+    cursor: pointer;
+}
+.s2
+{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top:357px;
+    left:401.64px;
+    height:420px;
+    width:350px;
+}
+.tt1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:0px;
+    left:23px;
+}
+.s3
+{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top:357px;
+    left:768.64px;
+    height:420px;
+    width:350px;
+}
+.rt5
+{
+    color:#2162A1;
+    position:absolute;
+    bottom:24px;
+    left:21px;
+}
+.s4
+{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top:357px;
+    left:1134.64px;
+    height: 420px;px;
+    width:350px;
+}
+.ts1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:-2px;
+    left:23px;
+}
+.ts2
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:18px;
+    left:23px;
+}
+.ss1
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://www.jiomart.com/images/product/original/rvtnfemnkw/asian-delta-21-turquoise-sports-shoes-product-images-rvtnfemnkw-0-202205311951.jpg?im=Resize=(500,630)");
+    background-size: cover;
+    background-position: center;
+    border:none;
+    
+}
+/* .ss1:hover
+{
+    border-color: white;
+} */
+.ss2
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8KugLKCTjXJYWe9BxyPBjtO-o6VsCIohqA&s");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .ss2:hover
+{
+    border-color: white;
+} */
+.ss3
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://relaxofootwear.com/cdn/shop/files/SX0657G-BKGO-1_3cb631f4-9134-4954-850c-eaf9c88cbf77.jpg?v=1730975961");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .ss3:hover
+{
+    border-color: white;
+} */
+.ss4
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://relaxofootwear.com/cdn/shop/files/SX0834G-GEPS-1_b28422d6-6759-4189-931f-282558be69ac.jpg?v=1730783563&width=800");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .ss4:hover
+{
+    border-color: white;
+} */
+.sss1
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://img.tatacliq.com/images/i8/437Wx649H/MP000000014602908_437Wx649H_202209230722082.jpeg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+    
+}
+/* .sss1:hover
+{
+    border-color: white;
+} */
+.sss2
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/61-f1XNyU2L._SY445_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.sss2:hover
+{
+    border-color: white;
+}
+.sss3
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://cdn.shopclues.com/images/thumbnails/18653/320/320/78208400FTSPOLCR00001M13x14302841351432811776.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.sss3:hover
+{
+    border-color: white;
+}
+.sss4
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/71azU+AdlJL._SY625_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .sss4:hover
+{
+    border-color: white;
+} */
+.s31
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/transparent-blue-full-rim-round-vincent-chase-tr90-vc-e13885-c3-eyeglasses_g_6357_03_22_23.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s31:hover
+{
+    border-color: white;
+} */
+.s32
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/513J84AbZIL._AC_SR175,263_QL70_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s32:hover
+{
+    border-color: white;
+} */
+.s33
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/41yHj1h1+gL._AC_SR300,300.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.s34
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://img.drz.lazcdn.com/g/kf/S821b7830ec1e4564ba5172f15a42d7bb8.jpg_720x720q80.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.s41
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/41dxQpVQMrL._AC_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s31:hover
+{
+    border-color: white;
+} */
+.s42
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcX2HUt5pahwTlsRB-FCDXtM_fWsQ3KY1srP8lz8LR8baCSXwl");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s32:hover
+{
+    border-color: white;
+} */
+.s43
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/61FlOhVd7zL._SY535_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.s44
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbCTJpHQGPmSuV1LErS4OCIcXSJRajuuObJsUPr061vwbC1qo-");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.gap1
+{
+    width:1480px;
+    height:18.4px;
+    border-style: solid;
+    border-color:#f2f2f2;
+    
+}
+.adv
+{
+    background-image: url("https://m.media-amazon.com/images/S/pv-target-images/ea7bce0351ae14129a1a3c93c7b00b7922bc3d1ebd2f1fe439b991c0d832ff2a._AC_SL792_.jpg");
+    background-position: center;
+    background-size: cover;
+    width:716.4px;
+    height:420px;
+    position:relative;
+    top:0px;
+    left:26px;
+    
+}
+.heading
+{
+    color:white;
+    position:absolute;
+    top:0px;
+    left:19px;
+}
+.nav
+{
+    color:white;
+    position:absolute;
+    top:50px;
+    left:19px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.new1
+{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top:812px;
+    left:768.64px;
+    height:420px;
+    width:350px;
+}
+.nn1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:0px;
+    left:23px;
+}
+.rn5
+{
+    color:#2162A1;
+    position:absolute;
+    bottom:24px;
+    left:21px;
+}
+.rt1
+{
+    font-size: 13px;
+    position:absolute;
+    top:190px;
+    left:23px;
+    cursor: pointer;
+}
+.rt2
+{
+    font-size: 13px;
+    position:absolute;
+    top:190px;
+    left:176px;
+    cursor: pointer;
+}
+.rt3
+{
+    font-size: 13px;
+    position:absolute;
+    top:350px;
+    left:23px;
+    cursor: pointer;
+}
+.rt4
+{
+    font-size: 13px;
+    position:absolute;
+    top:350px;
+    left:176px;
+    cursor: pointer;
+}
+.n1
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/41-KfdAceBL._AC_QL92_SH45_UL240_SR240,220_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s31:hover
+{
+    border-color: white;
+} */
+.n2
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/v/o/y/6-sparx15-sparx-black-mint-green-original-imaghxh2xwmd47eu.jpeg?q=20&crop=false");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s32:hover
+{
+    border-color: white;
+} */
+.n3
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/I/81aWlQn4-8L._AC_UL600_SR600,600_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.n4
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://www.jiomart.com/images/product/original/rvujkk1dn4/feroc-002-badminton-shoe-red-white-black-uk6-5-product-images-orvujkk1dn4-p592269393-3-202206291815.jpg?im=Resize=(1000,1000)");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.new2
+{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top:812px;
+    left:1135.04px;
+    height:420px;
+    width:350px;
+}
+.nn1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:-4px;
+    left:23px;
+}
+.nn2
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:14px;
+    left:23px;
+}
+.tp5
+{
+    color:#2162A1;
+    position:absolute;
+    bottom:24px;
+    left:21px;
+}
+.pt1
+{
+    font-size: 13px;
+    position:absolute;
+    top:190px;
+    left:23px;
+    cursor: pointer;
+}
+.pt2
+{
+    font-size: 13px;
+    position:absolute;
+    top:190px;
+    left:176px;
+    cursor: pointer;
+}
+.pt3
+{
+    font-size: 13px;
+    position:absolute;
+    top:350px;
+    left:23px;
+    cursor: pointer;
+}
+.pt4
+{
+    font-size: 13px;
+    position:absolute;
+    top:350px;
+    left:176px;
+    cursor: pointer;
+}
+.n21
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://rukminim2.flixcart.com/image/850/1250/xif0q/shoe/u/7/c/10-rso403-10-red-tape-green-grey-original-imah579hbhtstcvd.jpeg?q=20&crop=false");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s31:hover
+{
+    border-color: white;
+} */
+.n22
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:58px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://images.meesho.com/images/products/456972802/nywg0_512.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+/* .s32:hover
+{
+    border-color: white;
+} */
+.n23
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://rukminim2.flixcart.com/image/850/1000/xif0q/sandal/r/m/l/7-sf-2993-p-sherrif-orange-original-imagkgkdzvgj2gch.jpeg?q=20&crop=false");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.n24
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:76px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://assets.ajio.com/medias/sys_master/root/20220505/qus2/6273eb9eaeb26921af572bfc/-1117Wx1400H-464286896-black-MODEL4.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.inn5
+{
+ width:1400px;
+ height:285px;
+ background-color: #ffffff;
+ position:absolute;
+ left:34px;
+ padding-left: 50px;
+}
+#trp
+{
+    color:black;
+    position:absolute;
+    top:0px;
+    left:19px;
+}
+#trp1
+{
+    color:#2162A1;
+    position:absolute;
+    top:24px;
+    left:347.61px;
+    cursor:pointer;
+}
+.in1
+{
+ background-color: aqua;
+ position:absolute;
+ top:82px;
+ left:20px;
+ width:270px;
+ height:143.23px;
+ background-color: aliceblue;
+ display:block;
+}
+.in1 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.in2
+{
+ background-color: aqua;
+ position:absolute;
+ top:72px;
+ left:310px;
+ width:270px;
+ height:190.34px;
+ background-color: aliceblue;
+ display:block;
+}
+.in2 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.in3
+{
+ background-color: aqua;
+ position:absolute;
+ top:65px;
+ left:600px;
+ width:270px;
+ height:190.34px;
+ background-color: aliceblue;
+ display:block;
+}
+.in3 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.in4
+{
+ background-color: aqua;
+ position:absolute;
+ top:62px;
+ left:870px;
+ width:270px;
+ height:199.34px;
+ background-color: aliceblue;
+ display:block;
+}
+.in4 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.in5
+{
+ background-color: aqua;
+ position:absolute;
+ top:62px;
+ left:1160px;
+ width:270px;
+ height:199.34px;
+ background-color: aliceblue;
+ display:block;
+}
+.in5 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.gap2
+{
+    width:1480px;
+    height:18.4px;
+    border-style: solid;
+    border-color:#f2f2f2;
+    background-color:#f2f2f2;
+    position:relative;
+    top:293px;
+}
+.aa5
+{
+ width:1400px;
+ height:285px;
+ background-color: #ffffff;
+ position:relative;
+ top:293px;
+ left:26px;
+ padding-left: 50px;
+}
+#irp
+{
+    color:black;
+    position:absolute;
+    top:0px;
+    left:19px;
+}
+#irp1
+{
+    color:#2162A1;
+    position:absolute;
+    top:24px;
+    left:262px;
+    cursor:pointer;
+}
+.a1
+{
+ background-color: aqua;
+ position:absolute;
+ top:55px;
+ left:30px;
+ width:121px;
+ height:200px;
+ background-color: aliceblue;
+ display:block;
+}
+.a1 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.a2
+{
+ background-color: aqua;
+ position:absolute;
+ top:55px;
+ left:181px;
+ width:193px;
+ height:200px;
+ background-color: aliceblue;
+ display:block;
+}
+.a2 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.a3
+{
+ background-color: aqua;
+ position:absolute;
+ top:55px;
+ left:390px;
+ width:121px;
+ height:200px;
+ background-color: aliceblue;
+ display:block;
+}
+.a3 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.a4
+{
+ background-color: aqua;
+ position:absolute;
+ top:55px;
+ left:539px;
+ width:124px;
+ height:200px;
+ background-color: aliceblue;
+ display:block;
+}
+.a4 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.a5
+{
+ background-color: aqua;
+ position:absolute;
+ top:55px;
+ left:683px;
+ width:185px;
+ height:200px;
+ background-color: aliceblue;
+ display:block;
+}
+.a5 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.a6
+{
+ background-color: aqua;
+ position:absolute;
+ top:55px;
+ left:911px;
+ width:209px;
+ height:200px;
+ background-color: aliceblue;
+ display:block;
+}
+.a6 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.a7
+{
+ background-color: aqua;
+ position:absolute;
+ top:55px;
+ right:30px;
+ width:262px;
+ height:200px;
+ background-color: aliceblue;
+ display:block;
+}
+.a7 img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+#gap3
+{
+    
+    width:1480px;
+    height:18.4px;
+    border-style: solid;
+    border-color:#f2f2f2;
+    position:relative;
+    top:293px;
+}
+.z1
+{
+    background-color: rgb(255, 255, 255);
+    position:relative;
+    top:293px;
+    left:26px;
+    height:420px;
+    width:350px;
+}
+.t1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:-10px;
+    left:23px;
+}
+.t2
+{
+    font-size: 13px;
+    position:absolute;
+    top:173px;
+    left:23px;
+    cursor: pointer;
+}
+.int2
+{
+    font-size: 13px;
+    position:absolute;
+    top:164px;
+    left:23px;
+    cursor: pointer;
+    font-size:21px;
+}
+.intt2
+{
+    font-size: 13px;
+    position:absolute;
+    top:175px;
+    left:65px;
+    cursor: pointer;
+    font-size:12px;
+}
+.t3
+{
+    font-size: 13px;
+    position:absolute;
+    top:173px;
+    left:176px;
+    cursor: pointer;
+}
+.int3
+{
+    font-size: 13px;
+    position:absolute;
+    top:164px;
+    left:176px;
+    cursor: pointer;
+    font-size:21px;
+}
+.intt3
+{
+    font-size: 13px;
+    position:absolute;
+    top:175px;
+    left:218px;
+    cursor: pointer;
+    font-size:12px;
+}
+.t4
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:23px;
+    cursor: pointer;
+}
+.int4
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:23px;
+    cursor: pointer;
+    font-size: 21px;
+}
+.intt4
+{
+    font-size: 13px;
+    position:absolute;
+    top:346px;
+    left:65px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.t5
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:176px;
+    cursor: pointer;
+}
+.int5
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:176px;
+    cursor: pointer;
+    font-size: 21px;
+}
+.intt5
+{
+    font-size: 13px;
+    position:absolute;
+    top:346px;
+    left:218px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.sst1
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:39px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/I/61Z2qa+z1nL._AC_UL210_SR210,210_.jpg");
+    background-size: cover;
+    background-position: center;
+    border:none;
+    
+}
+.sst2
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:39px;
+    left:180.50px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/41B6pJ29G8L._AC_QL92_SH45_UL240_SR240,220_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.sst3
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:85px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/I/61odR70rgML._AC_UL200_SR200,200_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.sst4
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:85px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/61gTzzn0DfL._SY395_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.inz1
+{
+    font-size: 13px;
+    position:absolute;
+    bottom:10px;
+    left:23px;
+    cursor: pointer;
+    font-size: 13px;
+    color:#2162A1;
+    text-decoration: none;
+}
+.z2
+{
+    background-color: rgb(255, 255, 255);
+    position:relative;
+    top:-127px;
+    left:392.64px;
+    height:420px;
+    width:350px;
+}
+.r1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:-10px;
+    left:23px;
+}
+.r2
+{
+    font-size: 13px;
+    position:absolute;
+    top:173px;
+    left:23px;
+    cursor: pointer;
+}
+.inr2
+{
+    font-size: 13px;
+    position:absolute;
+    top:164px;
+    left:23px;
+    cursor: pointer;
+    font-size:21px;
+}
+.inrr2
+{
+    font-size: 13px;
+    position:absolute;
+    top:175px;
+    left:65px;
+    cursor: pointer;
+    font-size:12px;
+}
+.r3
+{
+    font-size: 13px;
+    position:absolute;
+    top:173px;
+    left:176px;
+    cursor: pointer;
+}
+.inr3
+{
+    font-size: 13px;
+    position:absolute;
+    top:164px;
+    left:176px;
+    cursor: pointer;
+    font-size:21px;
+}
+.inrr3
+{
+    font-size: 13px;
+    position:absolute;
+    top:175px;
+    left:218px;
+    cursor: pointer;
+    font-size:12px;
+}
+
+.r4
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:23px;
+    cursor: pointer;
+}
+.inr4
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:23px;
+    cursor: pointer;
+    font-size: 21px;
+}
+.inrr4
+{
+    font-size: 13px;
+    position:absolute;
+    top:346px;
+    left:65px;
+    cursor: pointer;
+    font-size:12px;
+}
+.r5
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:176px;
+    cursor: pointer;
+}
+.inr5
+{
+    font-size: 13px;
+    position:absolute;
+    top:335px;
+    left:176px;
+    cursor: pointer;
+    font-size: 21px;
+}
+.inrr5
+{
+    font-size: 13px;
+    position:absolute;
+    top:346px;
+    left:218px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.ssr1
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:39px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/I/71E62fc1NeL._AC_UL600_SR600,600_.jpg");
+    background-size: cover;
+    background-position: center;
+    border:none;
+    
+}
+.ssr2
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    top:39px;
+    left:180.50px;
+    cursor: pointer;
+    background-image: url("https://m.media-amazon.com/images/I/41eTfMw1SLL._AC_QL92_SH45_UL240_SR240,220_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.ssr3
+{
+    background-color: blue;
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:85px;
+    left:38px;
+    cursor: pointer;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/I/61VHvg7wvCL._AC_UL210_SR210,210_.jpg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.ssr4
+{
+    background-color: rgb(206, 59, 145);
+    height:131.95px;
+    width:138.73px;
+    position:absolute;
+    bottom:85px;
+    left:176.50px;
+    cursor: pointer;
+    background-image: url("https://rukminim1.flixcart.com/image/300/300/xif0q/shoe/v/g/j/6-running-powero-320-40-fortiva-navy-original-imagtpyzggpng3fy.jpeg");
+    background-size:cover;
+    background-position:center;
+    border:none;
+}
+.inz2
+{
+    font-size: 13px;
+    position:absolute;
+    bottom:10px;
+    left:23px;
+    cursor: pointer;
+    font-size: 13px;
+    color:#2162A1;
+    
+}
+.z3
+{
+    background-color: rgb(255, 255, 255);
+    position:relative;
+    top:-547px;
+    left:759.64px;
+    height:420px;
+    width:350px;
+}
+.ar1
+{
+    font-size: 21px;
+    font-weight:bolder;
+    position:absolute;
+    top:-10px;
+    left:23px;
+}
+.ssb1
+{
+    width:310px;
+    height:148.3px;
+    background-color:blue;
+    position:absolute;
+    top:95px;
+    left:20px;
+    background-image: url("https://m.media-amazon.com/images/I/71tTgLcG2bL._AC_UF894,1000_QL80_.jpg");
+    background-size:cover;
+    background-position: center;
+}
+.tps
+{
+    position:absolute;
+    font-size: 13px;
+    top:233px;
+    left:20px;
+}
+.br1
+{
+    position:absolute;
+    bottom:100px;
+    left:20px;
+    font-size:20px;
+}
+.inbr1
+{
+    position:absolute;
+    bottom:117px;
+    left:60px;
+    font-size: 12px;
+}
+.inbr
+{
+    position:absolute;
+    bottom:117px;
+    left:60px;
+    font-size: 12px;
+}
+.br2
+{
+    position:absolute;
+    bottom:109px;
+    left:82px;
+    font-size: 13px;
+    color:#565959;
+}
+.inbr2
+{
+    position:absolute;
+    bottom:109px;
+    left:125px;
+    font-size: 13px;
+    color:#565959;
+    text-decoration: line-through;
+}
+.mini1
+{
+    width:65.4px;
+    height:65px;
+    position:absolute;
+    bottom:25px;
+    left:32px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+.mini2
+{
+    width:65.4px;
+    height:65px;
+    position:absolute;
+    bottom:25px;
+    left:106px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+.mini3
+{
+    width:65.4px;
+    height:65px;
+    position:absolute;
+    bottom:25px;
+    left:180px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+.mini4
+{
+    width:65.4px;
+    height:65px;
+    position:absolute;
+    bottom:25px;
+    left:254px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+.mini1:hover
+{
+    border:1px#0A7cd1 solid;
+}
+.mini1:active
+{
+    border:3px #0A7cd1 solid;
+    transition-timing-function:
+}
